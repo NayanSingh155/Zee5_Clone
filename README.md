@@ -1,5 +1,3 @@
-# Zee5_Clone
- This is the clone of OTT platform zee5.com. I have use reactjs, javascript, css, html, and chakra-ui.
 
 
 # zee5.com clone
@@ -8,12 +6,11 @@ ZEE5 is an Indian subscription video on-demand and over-the-top streaming servic
 
 AS part of unit 4 construct week I cloned the zee5 to the best of my ability as individual in the span of 5 days.
 
-
+https://zee5-kohl.vercel.app/
 
 ## Features:
 
 1.Social Sign-up/Sign-in. 
-2. User authentication from back-end.
 3. For Data I have created Json Server and deployed it on Heroku. 
 4.Fetched the data using Axios.
 5. Added iframe so movies can play upto 4K. 
